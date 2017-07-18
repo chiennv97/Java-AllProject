@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="HTTPServer2:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="HTTPServer" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="HTTPServer2_main" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-web:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-quick:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-gui:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-http-server:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-http-client:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-sql:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-watch:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-integrate:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-oauth:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.1.3" level="project" />
+    <orderEntry type="library" name="Gradle: mysql:mysql-connector-java:5.1.41" level="project" />
+    <orderEntry type="library" name="Gradle: org.hsqldb:hsqldb:2.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate:hibernate-entitymanager:4.3.11.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate:hibernate-c3p0:4.3.11.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate:hibernate-validator:5.2.4.Final" level="project" />
+    <orderEntry type="library" name="Gradle: com.mchange:c3p0:0.9.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: javax.el:javax.el-api:2.2.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.glassfish.web:javax.el:2.2.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-html:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-render:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-jpa:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-http-fast:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-commons:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpasyncclient:4.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpmime:4.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.oltu.oauth2:org.apache.oltu.oauth2.client:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.jboss.logging:jboss-logging-annotations:1.2.0.Beta1" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate:hibernate-core:4.3.11.Final" level="project" />
+    <orderEntry type="library" name="Gradle: dom4j:dom4j:1.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate.common:hibernate-commons-annotations:4.0.5.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: javax.validation:validation-api:1.1.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml:classmate:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-net:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-inject:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-essentials:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.8.5" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.module:jackson-module-afterburner:2.8.5" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.8.5" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore-nio:4.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.oltu.oauth2:org.apache.oltu.oauth2.common:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: antlr:antlr:2.7.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.jboss:jandex:1.1.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: xml-apis:xml-apis:1.0.b2" level="project" />
+    <orderEntry type="library" name="Gradle: org.rapidoid:rapidoid-buffer:5.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.8.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.17" level="project" />
+    <orderEntry type="library" name="Gradle: org.json:json:20140107" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.9" level="project" />
+    <orderEntry type="library" name="Gradle: com.mchange:mchange-commons-java:0.2.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jboss.logging:jboss-logging:3.2.1.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.javassist:javassist:3.20.0-GA" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="HTTPServer2_main" />
+</module>

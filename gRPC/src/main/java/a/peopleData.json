@@ -1,0 +1,16 @@
+{
+  "infoD": [
+    {
+    "fullname": "chien",
+    "age": 8
+    },
+    {
+      "fullname": "nam",
+      "age": 9
+    },
+    {
+      "fullname": "hoa",
+      "age": 10
+    }
+  ]
+}

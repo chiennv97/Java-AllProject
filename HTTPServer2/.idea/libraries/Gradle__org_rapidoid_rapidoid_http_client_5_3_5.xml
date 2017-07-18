@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.rapidoid:rapidoid-http-client:5.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rapidoid/rapidoid-http-client/5.3.5/5abe7beeaad4d8c6ba624752253e9a7d56204eee/rapidoid-http-client-5.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rapidoid/rapidoid-http-client/5.3.5/159714a3e4d67dfcc7421bb0d0b213f0019e510b/rapidoid-http-client-5.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

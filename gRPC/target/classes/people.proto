@@ -1,0 +1,17 @@
+syntax = "proto3";
+option java_multiple_files = true;
+option java_outer_classname = "PeopleProto";
+option objc_class_prefix = "RTG";
+service people{
+	rpc GetPeople(name) returns (info) {};
+}
+message info{
+	string fullname = 1;
+	int32 age = 2; 
+}
+message name{
+	string n = 1;
+}
+message infoData{
+	repeated info infoD = 1;
+}

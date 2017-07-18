@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.rapidoid:rapidoid-sql:5.3.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rapidoid/rapidoid-sql/5.3.5/d8b8fa014c9fab9b91bd0f3b02ebe5430801ba71/rapidoid-sql-5.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rapidoid/rapidoid-sql/5.3.5/d632ef2ccaa7b95a4aa3a270893b92038bd0e395/rapidoid-sql-5.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
